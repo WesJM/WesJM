@@ -1,6 +1,6 @@
 # Hi, I’m Wes Martin  
 
-I’m a **Software Engineer transitioning into Data Engineering**, bringing 7+ years of software development experience and a Master’s in Data Science.  
+I’m a **Software Engineer transitioning into Data Engineering**, bringing 8+ years of software development experience and a Master’s in Data Science.  
 My focus is building **modern, cloud-based data pipelines** that deliver clean, reliable, and analytics-ready data.  
 
 🚀 *From software engineering to data engineering — hands-on projects in streaming, batch orchestration, and cloud warehousing.*
