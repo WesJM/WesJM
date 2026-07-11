@@ -1,34 +1,34 @@
-# Hi, I’m Wes Martin
+# Hi, I’m Wes 👋
 
-I’m a **Software Engineer transitioning into Data Engineering**, bringing 8+ years of software development experience and a Master’s in Data Science.
-My focus is building **modern, cloud-based data pipelines** that deliver clean, reliable, and analytics-ready data.
+With 8+ years of experience developing enterprise applications, I'm currently focused on designing modern data platforms and cloud-native data pipelines.
 
-🚀 *From software engineering to data engineering — hands-on projects in streaming, batch orchestration, and cloud warehousing.*
+I enjoy creating systems that collect, transform, and deliver reliable curated data from real-time streaming pipelines to scheduled batch workflows. This GitHub is where I document and showcase the data engineering projects I'm working on.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redpanda](https://img.shields.io/badge/Redpanda-AE1C28?style=for-the-badge&logo=redpanda&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 👤 About Me
+## 🚀 Current Focus
 
-- Core stack: **AWS, Snowflake, Airflow, dbt, Kafka**
-- Hands-on with **real-time** and **scheduled** pipelines
-- Expanding skills through **DataCamp** and **self-driven projects**
+- Building end-to-end data engineering projects with **AWS, Snowflake, Airflow, dbt, and Kafka**
+- Exploring **streaming architectures** alongside traditional batch processing
+- Continuing to expand my skills through hands-on projects and modern data engineering patterns
 
 ---
 
-## 🛠 Skills Snapshot
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![SQL](https://img.shields.io/badge/SQL-Database-green)
-![Airflow](https://img.shields.io/badge/Airflow-Orchestration-blue)
-![dbt](https://img.shields.io/badge/dbt-Transformations-orange)
-![Kafka](https://img.shields.io/badge/Kafka-Streaming-black)
-![Snowflake](https://img.shields.io/badge/Snowflake-Cloud-lightblue)
-![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20EC2-yellow)
-
+## 🛠 Tech Stack
 - **Languages:** Python, SQL
 - **Orchestration:** Apache Airflow
-- **Streaming:** Kafka / Redpanda
+- **Streaming:** Apache Kafka / Redpanda
 - **Transformation:** dbt, PySpark, Pandas
-- **Cloud & Warehousing:** AWS (S3/EC2), Snowflake, PostgreSQL, SQL Server
+- **Cloud & Data Platforms:** AWS (S3/EC2), Snowflake, PostgreSQL, SQL Server
 - **Infrastructure & Tools:** Docker, GitHub/GitLab, Jupyter
 
 ---
@@ -36,14 +36,25 @@ My focus is building **modern, cloud-based data pipelines** that deliver clean, 
 ## 🗂 Featured Projects
 
 ### Pinball Maps Batch Data Pipeline
-- **Technologies:** Apache Airflow, dbt, Snowflake, Docker, REST API
-- **Highlights:** End-to-end orchestration with Airflow, dbt transformations into a star schema, and Snowflake cloud integration
+> An end-to-end batch data pipeline that ingests data from the Pinball Maps API, orchestrates workflows with Apache Airflow, transforms data into an analytics-ready star schema with dbt, and loads it into Snowflake.
+>
+> **Technologies:** Airflow • dbt • Snowflake • Docker • REST APIs
 
 ### Real-Time NOAA Buoy Data Pipeline
-- **Technologies:** Kafka (Redpanda), Python, AWS S3, Snowflake, Snowpipe
-- **Highlights:** Real-time ingestion, schema enforcement with Parquet, automated Snowflake loading via Snowpipe
+> A streaming data pipeline that ingests live NOAA buoy observations using Kafka (Redpanda), stores validated Parquet data in AWS S3, and automatically loads it into Snowflake with Snowpipe.
+>
+> **Technologies:** Kafka • Python • AWS S3 • Snowflake • Snowpipe
 
 Portfolio here: [**Data Engineering Portfolio**](https://github.com/WesJM/data-engineering-portfolio)
+
+---
+
+## ☕ Beyond Code
+When I'm not building data pipelines, you'll probably find me:
+
+- 🕹️ Playing and exploring pinball machines
+- 💥 Reading comics and graphic novels
+- 🔧 Building side projects that combine software and my hobbies
 
 ---
 
