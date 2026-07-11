@@ -43,8 +43,9 @@ I enjoy creating systems that collect, transform, and deliver reliable curated d
 > A streaming data pipeline that ingests live NOAA buoy observations using Kafka (Redpanda), stores validated Parquet data in AWS S3, and automatically loads it into Snowflake with Snowpipe.
 >
 > **Technologies:** Kafka • Python • AWS S3 • Snowflake • Snowpipe
+<br>
 
-Portfolio here: [**Data Engineering Portfolio**](https://github.com/WesJM/data-engineering-portfolio)
+📂 Explore my projects here: [**Data Engineering Portfolio**](https://github.com/WesJM/data-engineering-portfolio)
 
 ---
 
@@ -57,4 +58,4 @@ When I'm not building data pipelines, you'll probably find me:
 
 ---
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/wes-martin/) | [Email](mailto:wes.martin713@gmail.com)
+📫 Connect with me: **[LinkedIn](https://www.linkedin.com/in/wes-martin/) | [Email](mailto:wes.martin713@gmail.com)**
